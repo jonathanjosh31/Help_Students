@@ -1,0 +1,7 @@
+{
+  "name": "Help_Students_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
